@@ -33,3 +33,4 @@ class Control:
     def pow(self, a, b):
         return pow(a, b)
     
+    # 내용 추가
