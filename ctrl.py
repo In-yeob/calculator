@@ -34,3 +34,5 @@ class Control:
         return pow(a, b)
     
     # 내용 추가
+
+    # 내용 추가
