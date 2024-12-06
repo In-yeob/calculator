@@ -1,6 +1,6 @@
 import sys
 from PyQt5.QtWidgets import (QApplication,QWidget,QPushButton,QVBoxLayout,
-                             QMessageBox, QPlainTextEdit, QHBoxLayout, QLabel)
+                             QMessageBox, QPlainTextEdit, QHBoxLayout)
 from PyQt5.QtGui import QIcon
 
 
